@@ -31,7 +31,7 @@
 
 ### 1. Clone the Repository
 
-git clone :  https://github.com/your-username/sync-chat.git <br>
+git clone :  https://github.com/parmardipika/sync-chat.git <br>
 cd sync-chat <br>
 
 ### 2. Install Dependencies
