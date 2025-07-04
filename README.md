@@ -69,7 +69,7 @@ sync-chat/
 └── socket/    # Socket.IO real-time server
 ```
 
-# 🔒 Security & Performance
+## 🔒 Security & Performance
 
 ### Uses JWT for stateless, secure authentication
 ### Prevents XSS via frontend sanitization
@@ -77,10 +77,10 @@ sync-chat/
 ### Real-time status updates without refresh
 
 
-# 📘 License
+## 📘 License
 #### This project is licensed under the MIT License.
 
-# 🤝 Contributions
+## 🤝 Contributions
 This version is maintained individually. For any collaboration requests, feel free to open an issue or contact me.
 
 ***❤️ Made with love by Dipika Parmar***
